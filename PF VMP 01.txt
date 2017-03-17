@@ -1,0 +1,10 @@
+Vision: Terminar un juego del estilo de "Elige tu propia aventura", con varios finales en Unity utilizando VR para la ambietacion.
+
+Descripción del usuario: Chicos/as desde 12 años en adelante.
+
+Analisis de mercado: Actualmente en el mercado hay alrededor de 10 juegos de este genero, ninguno de estos tiene compatibilidad con VR. La mayoria tienen una grafica 3D, Todos utilizan un formato de primera (fp) o Tercera persona (Tp) para desarrollar el juego. Casi todos estos se venden en la plataforma virtual "STEAM", algunos estan disponibles en stores de consolas como PlayStation, etc. Los precios de estos rondan entre los 15 a 60 usd.
+
+
+
+
+El juego "The Stanley Parable" que es del mismo estilo que lo vamos a hacer tiene una muy buena reputacion, esta muy bien puntuado segun las opiniones de los usuarios, en solo 2 semanas fue descargado unas 90.000 veces
