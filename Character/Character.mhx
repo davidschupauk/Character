@@ -1,0 +1,54 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags Character
+camera 0.5 1.5 0.682447530769 0.340400551987 -0.0362773530354 1.225
+modifier torso/torso-vshape-decr|incr -0.074000
+modifier breast/breast-trans-down|up 0.688000
+modifier macrodetails-universal/Muscle 0.667000
+modifier macrodetails/African 1.000000
+modifier macrodetails-proportions/BodyProportions 0.014000
+modifier torso/torso-scale-horiz-decr|incr -0.266000
+modifier breast/nipple-point-decr|incr -0.414000
+modifier torso/torso-trans-backward|forward 0.048000
+modifier armslegs/r-hand-fingers-length-decr|incr 0.320000
+modifier macrodetails/Gender 0.000000
+modifier torso/torso-scale-vert-decr|incr 0.130000
+modifier head/head-angle-in|out 0.048000
+modifier macrodetails-height/Height 0.578000
+modifier breast/BreastSize 0.653000
+modifier armslegs/r-hand-fingers-diameter-decr|incr 0.198000
+modifier torso/torso-muscle-dorsi-decr|incr 0.142000
+modifier torso/torso-trans-down|up -0.266000
+modifier torso/torso-muscle-pectoral-decr|incr 1.000000
+modifier macrodetails/Age 0.469000
+modifier breast/BreastFirmness 0.973000
+modifier macrodetails/Asian 0.000000
+modifier breast/breast-point-decr|incr -0.116000
+modifier measure/measure-neck-circ-decr|incr 0.048000
+modifier armslegs/r-hand-scale-decr|incr -0.346000
+modifier head/head-fat-decr|incr -1.000000
+modifier head/head-age-decr|incr -0.346000
+modifier macrodetails/Caucasian 0.000000
+modifier torso/torso-scale-depth-decr|incr -1.000000
+modifier breast/nipple-size-decr|incr 0.564000
+modifier armslegs/r-hand-fingers-distance-decr|incr -1.000000
+modifier head/head-back-scale-depth-decr|incr -0.538000
+modifier breast/breast-dist-decr|incr -0.130000
+modifier armslegs/r-hand-trans-in|out -1.000000
+modifier torso/torso-trans-in|out -0.102000
+modifier macrodetails-universal/Weight 0.789000
+modifier breast/breast-volume-vert-down|up 0.360000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+proxy female_generic 84b1a384-1af0-4126-9030-222edb78b318
+hair ponytail01 44e0340e-c7a6-4d22-814c-0632968d2dde
+skeleton game_engine.mhskel
+eyebrows eyebrow005 9da0aea6-fdf3-4862-baa4-0d122074179a
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes shoes05 8ef14ff4-8547-419c-a495-17bab919568b
+clothes female_casualsuit01 a8b0e841-144b-4f03-8b9e-ea8fdce8c863
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material ponytail01 44e0340e-c7a6-4d22-814c-0632968d2dde ponytail01.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide True
