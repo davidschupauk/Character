@@ -1,11 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{25525C9C-AE17-F4DA-9880-6B83CA0CBF57}") = "PF-2017", "Assembly-CSharp-firstpass.csproj", "{C0419441-9C5D-394A-1569-820DFE695DA7}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PF-2017", "Assembly-CSharp-firstpass.csproj", "{C0419441-9C5D-394A-1569-820DFE695DA7}"
 EndProject
-Project("{25525C9C-AE17-F4DA-9880-6B83CA0CBF57}") = "PF-2017", "Assembly-CSharp.csproj", "{74BFAC15-EE96-DD28-886F-F25C10AD4ECF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PF-2017", "Assembly-CSharp.csproj", "{74BFAC15-EE96-DD28-886F-F25C10AD4ECF}"
 EndProject
-Project("{25525C9C-AE17-F4DA-9880-6B83CA0CBF57}") = "PF-2017", "Assembly-CSharp-Editor.csproj", "{433F11FA-9371-D406-A76F-91F07D836C7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PF-2017", "Assembly-CSharp-Editor.csproj", "{433F11FA-9371-D406-A76F-91F07D836C7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
